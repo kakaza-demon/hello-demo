@@ -1,3 +1,3 @@
 # hello-demo
 learning git
-author - Abhijeet rajput
+author - Abhijeet rajput (Mtech)
